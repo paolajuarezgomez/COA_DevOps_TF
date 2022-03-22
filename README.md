@@ -23,8 +23,8 @@ During this UseCase we're going to:
 ````
 aws_access_key_id 
 aws_secret_access_key 
-tenancy_ocid
-compartment_ocid
+user_ocid
+fingerprint
 ````
 
 * Clone this repo in OraHub, GitLab or GitHub and create you own DevOps repository.
