@@ -8,7 +8,7 @@ This example creates an Autonomous Database (JSON) exposed to the public Interne
 During this UseCase we're going to:
 
 * Use OCI DevOps service.
-* Configure a build pipeline.
+* Configure a CI/CD pipeline.
 * Use OCI S3 as a backed for terraform.
 * Use OCI Vault for storing sensitive information.
 * Deploy IaC using Terraform, in this case an ADB resource.
